@@ -1,0 +1,4 @@
+city_data.csv
+app/city_data.csv
+pg_data/
+geolite2-city-ipv4.csv.gz
